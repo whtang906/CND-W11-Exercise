@@ -1,4 +1,11 @@
-# NYCU Cloud Native Development Week 11 Exercise (Group 22)
+# Cloud Native Development (NYCU 2022 Spring) Week 11 Exercise
+Group: 22
+
+Members:
+1. 310551004
+2. 310350035
+3. 310554024
+4.
 ## User Stories
 ### 310551004
 > **User Story**
